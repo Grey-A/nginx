@@ -73,7 +73,7 @@ We welcome contributions to enhance the Calculator App. To ensure a smooth colla
 - Provide a clear title and description for your pull request, explaining the changes made.
 5. Wait for the code review and address any feedback received.
 
-Check [this]() video on how to create a pull request to the repository.
+Check [this](https://vimeo.com/835186633/248bb95615) video on how to create a pull request to the repository.
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/o3MbZe)
 
